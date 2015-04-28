@@ -1,6 +1,6 @@
 # BlueLibrary-final
 
-iOS开发十大设计模式详细讲解
+iOS开发设计模式详细讲解
 
 1. iOS 设计模式系列：开篇
 2. iOS 设计模式系列：MVC – 设计模式中的国王
